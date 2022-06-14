@@ -4,4 +4,6 @@
 
 [![Junot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junot974&count_private=true&show_icons=true)](https://github.com/Junot974)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junot974&langs_count=8)](https://github.com/Junot974)
+
 - 974 🇷🇪
