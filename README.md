@@ -3,7 +3,9 @@
 </p>
 
                                                                                                                           
-![Junot's GitHub stats](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Junot's gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Junot's Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/16854945/junot)
+[![Junot's Stackoverflow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/antoine-junot/)
 - 👋 Hi, my name is Antoine. 
 - 👀 I’m interested in Big Data, Machine Learning, martial sports, surf, Trail Running, music and many others things
 - 🌱 I’m currently learning IT. I'm on my Fourth year of Computer Science at Toulouse (France).
@@ -13,3 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junot974&langs_count=10)](https://github.com/Junot974)
 
 - 974 🇷🇪
+
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Junot974.Junot974)](https://github.com/Junot974)
