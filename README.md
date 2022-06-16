@@ -10,9 +10,9 @@ Hi there, I'm <a href="https://flowcv.me/antoine-junot" target="_blank" rel="nor
 I'm I’m interested in Big Data, Machine Learning, martial sports, surf, Trail Running, music and many others things
 </h2> 
 
+<p align="center">
 🌱 I’m currently learning IT. I'm on my Fourth year of Computer Science at Toulouse (France).
-
-### 🤝 Connect with me:  
+</p>
 
 ### 🤝 Connect with me:
 
