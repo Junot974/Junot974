@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://flowcv.me/antoine-junot" target="_blank" rel="nor
 </h3>
 
 <h2 align="center">
-I'm I’m interested in Big Data, Machine Learning, martial sports, surf, Trail Running, music and many others things
+I'm interested in Big Data, Machine Learning, martial sports, surf, Trail Running, music and many others things
 </h2> 
 
 <p align="center">
