@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/80925746/174001569-ef075674-04d6-465d-bf9c-786d7a5239f5.png" alt = "My Banner">
+<p akign= "center">
+<img width=”200" height=”200" src="https://user-images.githubusercontent.com/80925746/174001569-ef075674-04d6-465d-bf9c-786d7a5239f5.png" alt = "My Banner">
+</p>
 
 - 👋 Hi, my name is Antoine. 
 - 👀 I’m interested in Big Data, Machine Learning, martial sports, surf, Trail Running, music and many others things
