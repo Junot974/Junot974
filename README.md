@@ -2,9 +2,8 @@
 <img width=”200" height=”200" src="https://user-images.githubusercontent.com/80925746/174001569-ef075674-04d6-465d-bf9c-786d7a5239f5.png" alt = "My Banner">
 </p>
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
                                                                                                                           
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[![Junot's GitHub stats](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - 👋 Hi, my name is Antoine. 
 - 👀 I’m interested in Big Data, Machine Learning, martial sports, surf, Trail Running, music and many others things
 - 🌱 I’m currently learning IT. I'm on my Fourth year of Computer Science at Toulouse (France).
