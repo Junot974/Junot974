@@ -17,6 +17,8 @@ I'm interested in Big Data, Machine Learning, martial sports, surf, Trail Runnin
 ### 🤝 Connect with me:
 
 [![Junot's Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/16854945/junot)
+<br/>
+[![Junot's linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-junot/)
 
 
 ## 💼 Technical Skills
