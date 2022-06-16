@@ -28,6 +28,7 @@ I'm I’m interested in Big Data, Machine Learning, martial sports, surf, Trail 
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-360/)
+![Java](https://img.shields.io/badge/Java-red.svg)
 
 </br>
 
