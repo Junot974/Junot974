@@ -7,43 +7,29 @@ Hi there, I'm <a href="https://flowcv.me/antoine-junot" target="_blank" rel="nor
 </h3>
 
 <h2 align="center">
-I'm interested in Big Data, Machine Learning, martial sports, surf, Trail Running, music and many others things
+I'm interested in Big Data, Machine Learning & blockchain
 </h2> 
 
 <p align="center">
-🌱 I’m currently learning IT. I'm on my Fourth year of Computer Science at Toulouse (France).
+🌱 I’m currently learning IT. I'm on my fifth year of Computer Science at Toulouse (France).
 </p>
 
 ### 🤝 Connect with me:
-
-[![Junot's Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/16854945/junot)
-<br/>
 [![Junot's linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-junot/)
 
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![Java](https://img.shields.io/badge/Java-red.svg)
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-
-</br>
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![Yarn](https://img.shields.io/badge/Yarn-blue.svg)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+| Machine learning / Data | Web | Management / Data integration | 
+|----------|:-------------:|------:| 
+| - Python | HTML / CSS | Talend
+| - SQL | PHP |
+| - Tensorfow | MySQL |
+| - Pandas | PostgreSQL |
+| - Sklearn | JavaScript |
+| - OpenCV | Flask |
+| - Neo4j | Angular |
+|Java |  |  |
 
 
 
