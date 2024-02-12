@@ -23,13 +23,12 @@ I'm interested in Big Data, Machine Learning & blockchain
 | Machine learning / Data | Web | Management / Data integration | 
 |----------|:-------------:|------:| 
 | - Python | HTML / CSS | Talend
-| - SQL | PHP |
+| - SQL | PHP | Power BI
 | - Tensorfow | MySQL |
 | - Pandas | PostgreSQL |
 | - Sklearn | JavaScript |
 | - OpenCV | Flask |
 | - Neo4j | Angular |
-|Java |  |  |
 
 
 
